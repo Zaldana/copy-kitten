@@ -1,0 +1,26 @@
+a {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: rgb(83, 172, 142);
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    padding: 5px 450px 0px 450px;
+    justify-content: space-around;
+    background-color: dimgray;
+    height: 50px;
+    list-style-type: none;
+}
+
+.header-link {
+    font-size: 30px;
+}
+
+.header-link:hover {
+    color: aquamarine;    
+    font-size: 30px;
+}
