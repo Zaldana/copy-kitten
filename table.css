@@ -61,3 +61,69 @@
     border-left: solid black 1px;
     padding: 5px 5px 5px 5px;
 }
+
+#cell-1:hover {
+    border-bottom: solid black 1px;
+    border-right: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: magenta;
+}
+
+#cell-2:hover {
+    border-bottom: solid black 1px;
+    border-right: solid black 1px;
+    border-left: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: turquoise;
+}
+
+#cell-3:hover {
+    border-bottom: solid black 1px;
+    border-left: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: magenta;
+}
+
+#cell-4:hover {
+    border-bottom: solid black 1px;
+    border-top: solid black 1px;
+    border-right: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: turquoise;
+}
+
+#cell-5:hover {
+    border: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: magenta;
+}
+
+#cell-6:hover {
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+    border-left: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: turquoise;
+}
+
+#cell-7:hover {
+    border-top: solid black 1px;
+    border-right: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: magenta;
+}
+
+#cell-8:hover {
+    border-top: solid black 1px;
+    border-right: solid black 1px;
+    border-left: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: turquoise;
+}
+
+#cell-9:hover {
+    border-top: solid black 1px;
+    border-left: solid black 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: magenta;
+}
