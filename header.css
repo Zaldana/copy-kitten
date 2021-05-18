@@ -9,14 +9,16 @@
 
 ul {
     display: flex;
-    align-items: center;
-    padding: 5px 450px 0px 450px;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: flex-start;
     background-color: dimgray;
-    height: 50px;
+    height: 100%;
+    width: 150px;
+    padding: 100px 0px 100px 15px;
     list-style-type: none;
 }
 
 .header-link {
     font-size: 30px;
+    margin-bottom: 30px;
 }
