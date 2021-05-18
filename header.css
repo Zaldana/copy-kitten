@@ -1,8 +1,9 @@
-a {
+.header {
     color: whitesmoke;
+    text-decoration: none;
 }
 
-a:hover {
+.header:hover {
     color: rgb(76, 161, 133);
 }
 
@@ -17,10 +18,5 @@ ul {
 }
 
 .header-link {
-    font-size: 30px;
-}
-
-.header-link:hover {
-    color: aquamarine;    
     font-size: 30px;
 }
