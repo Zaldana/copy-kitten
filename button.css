@@ -1,0 +1,35 @@
+a {
+    text-decoration: none;
+}
+
+.button-component {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button {
+    border-bottom: solid rgb(26, 47, 104) 7px;
+    color: white;
+    background-color: rgb(37, 78, 190);
+    border-radius: 10px;
+    width: 600px;
+    height: 100px;
+    padding-top: 29px;
+    text-align: center;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+#button:hover {
+    color: white;
+    background-color: rgb(50, 95, 218);
+    border-bottom: solid rgb(50, 95, 218) 7px;
+    border-radius: 10px;
+    width: 600px;
+    height: 100px;
+    padding-top: 29px;
+    text-align: center;
+    font-size: 45px;
+    text-transform: uppercase;
+}
